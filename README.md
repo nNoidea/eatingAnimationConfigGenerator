@@ -1,4 +1,4 @@
-This script is to automate mod creation for: https://modrinth.com/mod/eating-animation
+This script is to automate config file creation for a Minecraft mod: https://modrinth.com/mod/eating-animation
 
 Place your 3 sprites in the following locations:
 
