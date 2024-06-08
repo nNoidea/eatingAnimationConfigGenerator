@@ -1,3 +1,5 @@
+This script is to automate mod creation for: https://modrinth.com/mod/eating-animation
+
 Place your 3 sprites in the following locations:
 
     ./MODNAME/textures/item/item_name_eating_0.png
